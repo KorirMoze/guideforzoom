@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Guide for zoom</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="starting_meeting">Create or Join Meeting</string>
+    <string name="About_Zoom">About Zoom</string>
+    <string name="starting">How to Start USing Zoom</string>
+    <string name="Desktop">Using Desktop or Mobile App</string>
+    <string name="During_meeting">Meeting FUnctionalities</string>
+    <string name="before_meeting">What one can do before meeting</string>
+    <string name="after_launch">After App Launch</string>
+    <string name="abt">Zoom provides the first Unified Meeting Experience platform that
+        brings HD video conferencing, mobility and web meetings together as a free cloud
+        service. So you can have crystal-clear video conversation and high quality screen
+        sharing, anytime, from anywhere, with up to 25 people or rooms. It is available for
+        Windows, Mac, iOS, Android and works with PSTN and H.323/SIP room systems. Zoom will
+        release licensing that will allow additional capacity in the 1st quarter of 2014.
+First things first: You’re going to need to download zoom. Chances are you’ve already done
+        that, or you wouldn’t be reading this in the first place. Next, make sure you have
+        the most up-to-date version of the software. Some of the more advanced features
+        (which we’ll get into later) require the latest release. To update, click on your
+        user icon. It’s the blob in the top right corner that likely has your initials or
+        a photo on it. A list will pop up. In the middle is "Check for updates." Click it,
+        and follow the steps shown in the window.</string>
+
+    <string name="strt">To begin, simply go to http://zoom.us and click on Sign up.
+        From there you can enter your first and last name, and your e-mail address
+        to sign up. Additionall functionality will be added in the next few months
+        that will allow you to use youre NLU username and password Once you have signed
+        up or logged in, click on Host a Meeting, the desktop app will auto-download.
+        Alternatively you can click on the download footer link at http://zoom.us
+        For iOS, vist the Apple App Store or by searching "zoom."For Android, visit Google Play or
+        by searching "zoom HD meetings.".</string>
+    <string name="Afterlnch">After you launch the app, you have two options. You can Join a meeting,
+        or Host a meeting. If you do not wish to log in, and just want to join a meeting in progress
+        click on Join a meeting. If you would like to log in and start you own meeting, click on Host
+        a meeting. To log in, you can use the email and password that you have created, or use your
+        Google (Gmail or Google App) or Facebook account. Tip: If you have not created a user email
+        and password, please click on \"Sign Up\" to create a zoom account.</string>
+    <string name="startingmting">Once you have logged in, you will see the main dialog box as shown
+        below.The default tab is \"Home\". You can find the Settings tab in the main dialog box or
+        in the meeting menu bar. After clicking Settings, you will have the following options: Audio:
+        Once you have started or joined a meeting, you can perform the following actions from the
+        menu bar located at the bottom of the meeting window(move your mouse to toggle): Invest in a
+        quality webcam and speaker and microphone headset. These provide better video and audio than
+        your computer’s built-in system. Try to hold meetings in quiet, indoor locations to control
+        ambient noise. Adjust your lighting.</string>
+    <string name="beforemeetng">Don’t sit directly in front or beside a bright light source, or else
+        all the audience sees is a bright light and a shadowy figure. Experiment with moving lamps
+        and your camera until you can see your brightly-lit face on the screen.  Think about your
+        background.  Try to provide a nice, plain background. If your treadmill is in your office
+        and you use it more as a place to hang laundry, that’s not really the best visual for your
+        audience. You can’t control everything in a mobile environment, but you should give some
+        thought to ba…background prior to your meeting.  Practice speaking to the camera and not the
+        screen.  Our tendency is to look at the person on the screen, but you should look at the
+        camera when you speak so the audience feels like you’re talking directly to them. Optimize
+        Zoom.</string>
+    <string name="Duringmeetng">Zoom  gives you the option to turn on your camera and mic right when
+        you log onto a meeting, but if it doesn’t, use the buttons at the bottom left corner of the
+        toolbar to turn on your camera and your microphone.If you’d like to set your video or audio
+        to be always on or always off, open Zoom and click the little
+        gear icon just below your profile icon. In the video settings, go down to Meetings and check
+        or uncheck "Turn off my video when joining meeting." To silence your mic, select the "Mute
+        my microphone" option.Sharing. Generally DO NOT select “Share Your Desktop” (unless you
+        want every pop-up email and private message on display for your audience!). Instead, open up
+        any relevant documents before the call and share only those during the meeting. Note that
+        when you share, Zoom prioritizes the shared item to the bandwidth. This can reduce the other
+        video feeds’ quality, so don’t share longer than necessary.  Practice hosting. Zoom is very
+        easy to use, but a live video conference with a customer is not the time to explore its
+        features. Make video appointments with internal employees and friends to get used to Zoom.
+        Practice scheduling, and inviting people to meetings. Learn how to mute and unmute audience
+        members and re-assign the host role.</string>
+    <string name="Dsktp">There is a big green button right in the middle of the in-meeting taskbar
+        that says Share Screen Click it. You can choose to share any single open application
+        like PowerPoint or your web browser or your entire desktop. If you want to get more picky
+        about the screen sharing options, like to decide who is allowed to share their screens on
+        the call, click the arrow right by the Share button and choose your settings.Zoom videos are
+        mirrored by default, because it looks more
+        natural to see yourself reflected back at you in that way. Other participants still see the
+        non-mirrored, normal you. You can turn this mirroring feature off, but it is disorienting and
+        takes some getting used to. Still, it is useful to turn off mirroring if you find yourself
+        wanting to share a physical object by holding it up to the camera, like a page of notes or some flash cards.</string>
+
+
+    <string name="app_id">ca-app-pub-4006728735427748~2900074126</string>
+    <string name="inter_id">ca-app-pub-4006728735427748/9401069143</string>
+    <string name="banner_id">ca-app-pub-4006728735427748/6647747443</string>
+
+</resources>
